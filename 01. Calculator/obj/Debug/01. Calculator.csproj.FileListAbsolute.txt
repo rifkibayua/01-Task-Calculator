@@ -1,0 +1,7 @@
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\bin\Debug\_01.Calculator.exe.config
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\bin\Debug\_01.Calculator.exe
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\bin\Debug\_01.Calculator.pdb
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\obj\Debug\01. Calculator.csproj.AssemblyReference.cache
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\obj\Debug\01. Calculator.csproj.CoreCompileInputs.cache
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\obj\Debug\_01.Calculator.exe
+F:\Semester 2\Pemrograman\01. Calculator\01. Calculator\obj\Debug\_01.Calculator.pdb
